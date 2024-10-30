@@ -1,0 +1,31 @@
+/**
+ * LeaflyReviews CSS
+ *
+ * @package     LeaflyReviews\CSS
+ * @since       1.0.0
+ */
+
+
+/* Leafly Reviews widget
+-------------------------------------------------------------- */
+
+.leafly-reviews-plugin-meta {
+	padding: 0 0 24px 0;
+	position: relative;
+	width: 100%;
+}
+
+.leafly-reviews-plugin-meta-username {
+	color: #76BD1D;
+	font-size: 1.3em;
+	line-height: 1.9em;
+}
+
+.leafly-reviews-plugin-meta-avatar {
+    width: 36px;
+    margin-right: 10px;
+}
+
+.leafly-reviews-plugin-meta-rating {
+	width: 120px;
+}

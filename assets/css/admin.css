@@ -1,0 +1,29 @@
+/**
+ * LeaflyReviews admin CSS
+ *
+ * @package     LeaflyReviews\CSS
+ * @since       1.0.0
+ */
+
+
+/* Leafly Reviews admin
+-------------------------------------------------------------- */
+
+div.widget[id*=_leaflyreviews_] .widget-top,
+div.widget[id*=_leaflyreviews_] .widget-top:hover {
+	border-color: #76BD1D;
+}
+
+div.widget[id*=_leaflyreviews_] .widget-title,
+div.widget[id*=_leaflyreviews_] .widget-title h3 {
+	background: #76BD1D;
+	color: #FFF;
+}
+
+div.widget[id*=_leaflyreviews_] .widget-title .in-widget-title {
+	color: rgba(255,255,255,0.6);
+}
+
+div.widget[id*=_leaflyreviews_] .widget-action {
+	color: #FFF;
+}
